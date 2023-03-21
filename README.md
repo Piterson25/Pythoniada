@@ -13,23 +13,11 @@ W pierwszym etapie gracz ma 3 próby na każde pytanie i zbiera punkty. Punkty s
 
 W finale ponownie mamy do dyspozycji 5 pytań, ale na każde z nich mamy tylko 1 próbę. Aby wygrać należy zdobyć przynajmniej 15 punktów w finale. Wyniki graczy zapisywane są w pliku [scoreboard.txt](https://github.com/Piterson25/Pythoniada/blob/main/scoreboard.txt).
 
-## 💻 Uruchomienie
+## 🚀 Uruchomienie
 Do uruchomienia gry należy uruchomić plik [main.py](https://github.com/Piterson25/Pythoniada/blob/main/main.py). Gra składa się z dwóch etapów:
 
 * Pierwszy etap znajduje się w pliku [pierwszyetap.py](https://github.com/Piterson25/Pythoniada/blob/main/pierwszyetap.py).
 * Drugi etap, czyli etap finałowy, znajduje się w pliku [final.py](https://github.com/Piterson25/Pythoniada/blob/main/final.py).
 
-Dodatkowe pliki:
-* [funkcje.py](https://github.com/Piterson25/Pythoniada/blob/main/funkcje.py) - zawiera funkcje wykorzystywane w pozostałych plikach .py.
-* [asserty.py](https://github.com/Piterson25/Pythoniada/blob/main/asserty.py) - zawiera testy na asercje.
-
-Pliki z pytaniami:
-
-* [pytania.txt](https://github.com/Piterson25/Pythoniada/blob/main/pytania.txt) - plik z pytaniami w pierwszym etapie gry.
-* [pytania_finalowe.txt](https://github.com/Piterson25/Pythoniada/blob/main/pytania_finalowe.txt) - plik z pytaniami w etapie finałowym gry.
-
-Pozostałe pliki:
-
-* [przywitanie.txt](https://github.com/Piterson25/Pythoniada/blob/main/przywitanie.txt) - zawiera tekst przywitania na początku gry.
-* [suchary.txt](https://github.com/Piterson25/Pythoniada/blob/main/suchary.txt) - zawiera dowcipy na początku gry.
-* [scoreboard.txt](https://github.com/Piterson25/Pythoniada/blob/main/scoreboard.txt) - zawiera wyniki graczy po finale.
+## License
+Pythoniada jest udostępniana na licencji MIT. Szczegóły można znaleźć w pliku [LICENSE](https://github.com/Piterson25/Pythoniada/blob/main/LICENSE).
