@@ -1,6 +1,6 @@
 # Pythoniada
 
-🎮 Gra typu "Familiada" napisana w Pythonie.
+🕹️ Gra typu "Familiada" napisana w Pythonie.
 
 ![thumbnail.png](https://github.com/Piterson25/Pythoniada/blob/main/thumbnail.png)
 
