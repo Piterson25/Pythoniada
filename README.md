@@ -2,6 +2,8 @@
 
 🎮 Gra typu "Familiada" napisana w Pythonie.
 
+![thumbnail.png](https://github.com/Piterson25/Pythoniada/blob/main/thumbnail.png){.center}
+
 ## 🗒️ Opis
 Pythoniada to prosta gra napisana w Pythonie, naśladująca znany teleturniej "Familiada" z wszystkimi jego elementami. Gra odbywa się w oknie terminalu, a wyniki zapisywane są do pliku.
 
