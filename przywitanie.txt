@@ -1,0 +1,24 @@
+
+$$$$$$$	              $$      $$                            $$                  $$            
+$$    $$              $$      $$                                                $$            
+$$    $$  $$    $$  $$$$$$    $$$$$$$    $$$$$$   $$$$$$$   $$   $$$$$$    $$$$$$$   $$$$$$   
+$$$$$$$   $$    $$    $$      $$    $$  $$    $$  $$    $$  $$        $$  $$    $$        $$  
+$$   	  $$    $$    $$      $$    $$  $$    $$  $$    $$  $$   $$$$$$$  $$    $$   $$$$$$$  
+$$        $$    $$    $$  $$  $$    $$  $$    $$  $$    $$  $$  $$    $$  $$    $$  $$    $$  
+$$         $$$$$$$     $$$$   $$    $$   $$$$$$   $$    $$  $$   $$$$$$$   $$$$$$$   $$$$$$$  
+                $$                                                                            
+          $$    $$                                                                            
+           $$$$$$                                                 Autor: Piotr Maszczak                            
+
+---------------------------------- WITAMY W PYTHONIADZIE! ----------------------------------
+
+Gra sklada sie z pierwszego etapu oraz finalu, kazde skladajace sie z 5 pytan.
+W pierwszym etapie mamy 3 'zycia' na kazde pytanie, ktore odnawiaja sie w kolejnym pytaniu.
+Aby dostac sie do finalu, nalezy zdobyc powyzej 50 punktow w pierwszym etapie.
+
+W finale wpisujemy tylko jedna odpowiedz na kazde pytanie.
+Zdobycie ponad 15 punktow w finale oznacze wygranie calej gry!
+
+Pytania piszemy bez znaczenia na wielkosc znakow, ale bez polskich znakow.
+Jesli nie masz juz pomyslu na odpowiedz, wystarczy ze napiszesz 'skip', aby pominac pytanie.
+Milej zabawy! :)
